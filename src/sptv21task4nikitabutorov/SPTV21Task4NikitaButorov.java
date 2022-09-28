@@ -43,8 +43,6 @@ public class SPTV21Task4NikitaButorov {
         // TODO code application logic here
     }
 
-    private static int rnd() {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
+   
     
 }
